@@ -8,5 +8,7 @@ Change the information in the `package.json` file to reflect your bot's data.
 
 *The `README.md` and `LICENSE` files do not have to be included in the bot's folder. All other files do.*
 
+Run the bot via NodeJS by running the `node bot.js` command locally, or set up online hosting.
+
 ## Tutorial
 A full article on how to code and use this bot is coming soon.
