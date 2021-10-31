@@ -2,7 +2,7 @@
 👋 This is a simple Discord bot, coded in JavaScript and the Discord.js library. This bot welcomes new members to a Discord server using one of the specified messages, sent to a specified channel on the server.
 
 ## Set-up & use
-To set up this bot, please create a bot application in the Discord Developer Portal (for more instructions, see Tutorial), and then follow these steps:
+To set up this bot, please create a bot application in the Discord Developer Portal (for more instructions, see [Tutorial](/README.md#tutorial)), and then follow these steps:
 
 1. Include your bot token in the `config.json` file.
 2. Change the `WELCOME_CHANNEL_ID` variable to the ID of the Discord channel welcoming messages should be sent to.
